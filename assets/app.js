@@ -27,7 +27,7 @@ const options = {
             console.log("Refreshing...");
             viz.refreshDataAsync();
 
-        }, 9000);
+        }, 4000);
     }
 
 function stopRefresh() {
